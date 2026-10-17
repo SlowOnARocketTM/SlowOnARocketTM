@@ -4,7 +4,7 @@
 
 **Go and Python developer Self Taught Dev**
 
-Currently building **[Saturn Launcher](https://github.com/swarties/SaturnLauncher)** a lightweight, ad-free, blazingly fast Minecraft launcher.
+Currently building **[Saturn Launcher](https://github.com/swarties/SaturnLauncher)** a lightweight, ad-free, blazingly fast Minecraft launcher. ![Hackatime Badge](https://hackatime-badge.hackclub.com/U0A0LE6RY76/SaturnLauncher)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
