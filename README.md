@@ -18,21 +18,10 @@ Currently building **[Saturn Launcher](https://github.com/swarties/SaturnLaunche
 
 ### What I'm working on currently
 
-- 🪐 **[Saturn Launcher](https://github.com/swarties/SaturnLauncher)**  Making the backend for a native Minecraft launcher built with Go + Wails!
+- **[Aerocrest](https://github.com/SlowOnARocketTM/Aerocrest)** Working on my first ever big solo project. A Hosting Panel with its own daemon and custom panel build using go, chi and templ
+
+### Completed Projects
+
+- **[Saturn Launcher](https://github.com/swarties/SaturnLauncher)**  Made the backend for a native Minecraft launcher built with Go + Wails!
 
 ---
-
-### Coding Activity
-
-<a href="https://heatmap.shymike.dev?id=24006&timezone=America%2FMontreal&labels=true&standalone=true" title="Click to view detailed data for each day!">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=24006&timezone=America%2FMontreal&labels=true&theme=catppuccin_dark">
-        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=24006&timezone=America%2FMontreal&labels=true&theme=catppuccin_light">
-    </picture>
-</a>
-
----
-
-### GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SlowOnARocketTM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
